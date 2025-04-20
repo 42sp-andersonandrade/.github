@@ -29,7 +29,7 @@ Este espaço foi criado para organizar, versionar e compartilhar todos os projet
 ## 👤 Autor
 
 **Anderson Andrade**  
-Cadete 42SP  
+Pisciner 42SP  
 [GitHub Profile](https://github.com/anderson-andrade-dev)  
 
 ---
