@@ -1,4 +1,4 @@
-# 🏰 42SP Cadete Anderson Andrade
+# 🏰 42SP Pisciner Anderson Andrade
 
 Bem-vindo à organização oficial de projetos de **Anderson Andrade** na **42 São Paulo**.
 
